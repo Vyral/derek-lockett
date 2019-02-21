@@ -28,8 +28,8 @@ client:
   url:
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Free Consultation
+  first_CTA_URL: https://adept-darkness.cloudvent.net/contact
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
@@ -37,8 +37,8 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_link_text: "Contact for a Free Consultation"
+    CTA_url: https://adept-darkness.cloudvent.net/contact
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
