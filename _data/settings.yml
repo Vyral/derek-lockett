@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Open Title
   first_CTA_URL: /contact
   second_CTA_text: Property Info
-  second_CTA_URL: 
+  second_CTA_URL: /contact
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
