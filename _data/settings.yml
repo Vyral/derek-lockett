@@ -5,9 +5,9 @@ show_custom_links: false
 custom_links:
   - title:
     url:
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
+  - title: Schedule a Class
     url:
 
 client:
@@ -28,10 +28,10 @@ client:
   url:
 
 CTAs:
-  first_CTA_text: Free Consultation
-  first_CTA_URL: https://adept-darkness.cloudvent.net/contact
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  first_CTA_text: Open Title
+  first_CTA_URL: 
+  second_CTA_text: Property Info
+  second_CTA_URL: 
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
