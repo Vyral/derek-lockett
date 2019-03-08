@@ -29,7 +29,7 @@ client:
 
 CTAs:
   first_CTA_text: Open Title
-  first_CTA_URL: 
+  first_CTA_URL: /contact
   second_CTA_text: Property Info
   second_CTA_URL: 
 
