@@ -21,7 +21,7 @@ youtube_code: SmCm4fvt0n4
 
 {% include youtube.html %}
 
-If you’ve got questions about the real estate process, we’ve got the answers you need.
+<p style="text-align: center;"><em>If you’ve got questions about the real estate process, we’ve got the answers you need.</em></p>
 
 If you’ve been involved in real estate in any way in the last few years, you don’t need me to tell you that **the industry is changing rapidly.** Thanks to the internet, buyers and sellers now have more information than ever before regarding the ins and outs of real estate.&nbsp;
 
