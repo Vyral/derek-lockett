@@ -27,7 +27,7 @@ If you’ve been involved in real estate in any way in the last few years, you d
 
 Beyond that, iBuyers and other disruptors have emerged onto the scene. In short, real estate today is virtually unrecognizable to what things were like even just a decade ago.&nbsp;
 
-But even with all of these changes taking place, there are still a couple of things that remain constant: title and escrow. In fact, title and escrow has stayed so consistent that even those of us within the industry are beginning to tire of the same old song and dance.
+But even with all of these changes taking place, there are still a couple of things that remain constant: title and escrow. In fact, title and escrow have stayed so consistent that even those of us within the industry are beginning to tire of the same old song and dance.
 
 {% include pullquote.html %}
 
