@@ -19,7 +19,7 @@ youtube_code: SmCm4fvt0n4
 
 {% include youtube.html %}
 
-*If you’ve got questions about the real estate process, we’ve got the answers you need.*
+<p style="text-align: center;"><em>If you’ve got questions about the real estate process, we’ve got the answers you need.</em></p>
 
 **Real estate is changing rapidly these days.&nbsp;**
 
