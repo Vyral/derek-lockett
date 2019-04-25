@@ -1,3 +1,4 @@
+<br>
 <p>Thank you for placing your title and escrow order with Derek and Stewart Title Company!<br>Please fill out the below form to expedite your request</p>
 <form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
     <fieldset>
@@ -13,10 +14,12 @@
         <!--3-->
         <label for="address">What is the property address?<span class="asterisk">*</span>
         </label>
+        <input type="text" name="address">
+        <!--4-->
         <label for="name">What is the property owner’s name?<span class="asterisk">*</span>
         </label>
         <input type="text" name="name" required>
-        <!--4-->
+        <!--5-->
         <label for="type">What service are you requesting?</label>
         <select name="type">
             <option value="-Select-" selected="selected">
@@ -29,12 +32,12 @@
                 Includes plat map, last deed of record, property profile and tax information
             </option>
         </select>
-        <!--5-->
+        <!--6-->
         <label for="range">
             Is there anything specific you’d like us to know regarding this property?
         </label>
         <input name="range">
-        <!--6-->
+        <!--7-->
         <label for="type">Is there anything else we can provide?</label>
         <select name="type">
             <option value="-Select-" selected="selected">
@@ -53,7 +56,7 @@
                 Homebook - $14.30
             </option>
         </select>        
-        <!--7-->
+        <!--8-->
         <label for="range">
             Have a question or need something not listed here?
         </label>
