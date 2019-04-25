@@ -31,7 +31,7 @@ client:
 
 CTAs:
   first_CTA_text: Open Title
-  first_CTA_URL: /contact
+  first_CTA_URL: /homevalue/
   second_CTA_text: Property Info
   second_CTA_URL: /contact
 
