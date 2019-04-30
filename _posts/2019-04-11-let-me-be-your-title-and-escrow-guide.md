@@ -27,7 +27,7 @@ But even with all of these changes taking place, title and escrow have stayed so
 
 {% include pullquote.html %}
 
-That’s exactly why I’m here today. **I’m Derek Lockett, owner and founder of Derek Lockett Title and Escrow, and I’m ready to shake things up.** I plan to bring you relevant, helpful, and easy-to-understand content that cuts straight to the point.&nbsp;
+That’s exactly why I’m here today. **I’m Derek Lockett, your Title and Escrow guide, and I’m ready to shake things up.** I plan to bring you relevant, helpful, and easy-to-understand content that cuts straight to the point.&nbsp;
 
 Our goal is twofold. We want to help buyers and sellers to better understand real estate and we want to help real estate professionals modernize their service.&nbsp;
 
