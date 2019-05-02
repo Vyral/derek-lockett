@@ -31,9 +31,9 @@ client:
 
 CTAs:
   first_CTA_text: Open Title
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: /open-title/
   second_CTA_text: Property Info
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: /property-info/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -42,12 +42,12 @@ sidebar_CTA:
     CTA_link_text: "Contact for a Free Consultation"
     CTA_url: https://adept-darkness.cloudvent.net/contact
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Looking for a -- MARKET -- Home?"
+#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false

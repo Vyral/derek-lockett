@@ -1,0 +1,69 @@
+<br>
+<p>Thank you for placing your title and escrow order with Derek and Stewart Title Company!<br>Please fill out the below form to expedite your request</p>
+<form method="post" class="home-value cta-forms" action="https://formspree.io/derek.lockett@stewart.com,openhere@stewart.com,cs@stewart.com" onsubmit="return setReturn()">
+    <fieldset>
+        <p id="thanks"></p>
+        <!--1-->
+        <label for="name">What is your name?<span class="asterisk">*</span>
+        </label>
+        <input type="text" name="name" required>
+        <!--2-->
+        <label for="email">What is your email address?<span class="asterisk">*</span>
+        </label>
+        <input type="email" name="_replyto" required>
+        <!--3-->
+        <label for="address">What is the property address?<span class="asterisk">*</span>
+        </label>
+        <input type="text" name="address">
+        <!--4-->
+        <label for="name">What is the property owner’s name?<span class="asterisk">*</span>
+        </label>
+        <input type="text" name="name" required>
+        <!--5-->
+        <label for="type">What service are you requesting?</label>
+        <select name="type">
+            <option value="-Select-" selected="selected">
+                -Select-
+            </option>
+            <option value="Preliminary Title Report including Trio/Property info">
+                Preliminary Title Report including Trio/Property info
+            </option>
+            <option value="Trio/property info including plat map, last deed of record, property profile and tax information">
+                Trio/property info including plat map, last deed of record, property profile and tax information
+            </option>
+        </select>
+        <!--6-->
+        <label for="specifics">
+            Is there anything specific you’d like us to know regarding this property?
+        </label>
+          <textarea name="specifics"></textarea>
+        <!--7-->
+        <label for="type">Is there anything else we can provide?</label>
+        <input type="checkbox" name="farm" value="farm" id="field3">Farm of 100 closest properties and predictive models of those most likely to sell - $2<br>
+        <input type="checkbox" name="custom" value="custom">Custom farm (Derek will contact you for details!)<br>
+        <input type="checkbox" name="comparable" value="comparable">Comparable Sales Report - $1.05<br>
+        <input type="checkbox" name="homebook" value="homebook">Homebook - $14.30<br>
+        <!--8-->
+        <br>
+        <label for="other">
+            Have a question or need something not listed here?
+        </label>
+        <textarea name="other"></textarea>
+        <!-- submit! -->
+        <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm">
+        <span class="asterisk">*</span>required
+    </fieldset>
+    <!-- Cloud cannon settings field -->
+    <div class="hidden">
+      <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
+      <input type="hidden" name="_subject" value="Seller Request Message From Your Vyral Video Blog">
+      <input type="text" name="_gotcha">
+    </div>
+</form>
+<script>
+function setReturn(){
+  localStorage.setItem("thanks", "Your request was sent successfully!");
+  document.getElementById("thanks").innerHTML =    localStorage.getItem("thanks");
+  localStorage.clear();
+}
+</script>

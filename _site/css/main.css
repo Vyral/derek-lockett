@@ -1258,7 +1258,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #23ffa6;
+  -webkit-tap-highlight-color: #008952;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1294,7 +1294,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #23ffa6; }
+        color: #008952; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1303,7 +1303,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #23ffa6;
+      background-color: #008952;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1465,13 +1465,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  max-width: 60rem;
+  -webkit-filter: drop-shadow(2px 2px 7px white);
+  filter: drop-shadow(2px 2px 7px white); }
 
 .site-title {
-  color: white;
-  text-shadow: 0px 2px 7px transparent;
+  color: #00BC70;
+  text-shadow: 2px 2px 7px white;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -1675,7 +1675,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #23ffa6; }
+    color: #008952; }
   a:visited {
     text-decoration: none; }
 
@@ -1686,7 +1686,7 @@ a {
   border: 1px solid #00BC70;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #23ffa6;
+    background: #008952;
     border: 1px solid #00BC70;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1704,8 +1704,8 @@ a {
   border-color: #00BC70;
   color: #00BC70; }
   .button-ghost.brand:hover {
-    border-color: #23ffa6;
-    color: #23ffa6; }
+    border-color: #008952;
+    color: #008952; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1936,7 +1936,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 2px 2px 7px white; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1950,7 +1950,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1961,13 +1961,13 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #23ffa6; }
+      color: #008952; }
 
 .post-share {
   text-align: center;
@@ -2094,16 +2094,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #23ffa6;
+      fill: #008952;
       background: transparent;
-      color: #23ffa6;
+      color: #008952;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #23ffa6;
+      box-shadow: 0 0 0 #008952;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2116,7 +2116,7 @@ table tr, table td {
     width: 5rem;
     fill: #00BC70; }
     .about .socials svg:hover {
-      fill: #23ffa6; }
+      fill: #008952; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2132,7 +2132,7 @@ table tr, table td {
     fill: #00BC70;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #23ffa6;
+      fill: #008952;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2365,10 +2365,13 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #23ffa6; }
+    fill: #008952; }
 
 .footer-pad {
   padding-top: 20px; }
+
+.stewart {
+  width: 100px; }
 
 .item-container {
   margin: 3rem 5rem;
@@ -2447,7 +2450,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #56ffbb; }
+      color: #00bc70; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2477,7 +2480,8 @@ table tr, table td {
   .prev {
     right: 0px; } }
 form label {
-  display: block; }
+  display: block;
+  font-size: 18px; }
 form textarea {
   display: block;
   padding: 0.5rem; }
@@ -2493,17 +2497,31 @@ form select {
     width: 100%;
     border: 1px solid #00BC70; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    font-size: 18px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
     border: 3px solid #00BC70; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #23ffa6; }
+      background: #fff;
+      color: #00BC70;
+      border: 1px solid #00BC70; }
+  .home-value input[type="checkbox"] {
+    padding: 20px;
+    width: inherit;
+    margin-right: 1rem;
+    font-size: 18px; }
+
+.move-left {
+  width: auto;
+  box-shadow: none;
+  float: left; }
 
 .contact-form {
   width: 75%;
-  margin-left: 13%; }
+  margin-left: 13%;
+  font-size: 18px; }
   .contact-form input, .contact-form textarea {
     width: 100%;
     border: 1px solid gray; }
@@ -2519,6 +2537,11 @@ form select {
       background: #fff;
       color: #00BC70;
       border: 1px solid #00BC70; }
+    .contact-form input[type="submit"] input[type="checkbox"] {
+      padding: 20px;
+      width: inherit;
+      margin-right: 1rem;
+      font-size: 18px; }
 
 .contact {
   font-size: 24px;
@@ -2637,11 +2660,11 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 40rem;
+  max-width: 60rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(2px 2px 7px white);
+  filter: drop-shadow(2px 2px 7px white); }
 
 .page-hero-img {
   background-position: center;
