@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/nvJajZlStgc'
 
 {% include youtube.html %}
 
-RON is a serious game-changer. It helps out the buyer and seller of today.
+<p style="text-align: center;"><em>RON is a serious game-changer. It helps out the buyer and seller of today.</em></p>
 
 I’m holding the pen that Governor Inslee used to sign a bill that concerns RON.&nbsp;
 
