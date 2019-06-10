@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/nvJajZlStgc'
 
 I’m holding the pen that Governor Inslee used to sign a bill that concerns RON.&nbsp;
 
-“Who is Ron?” you ask. The question is more of a what than a who, though—RON is an acronym that stands for “remote online notary.”&nbsp;
+“Who is Ron?” you ask? The question is more of a "what" than a "who," though—<strong>RON is an acronym that stands for “remote online notary.”</strong>&nbsp;
 
 Essentially, this digital tool allows buyers and sellers to sign their documents on one end of a video call, while a notary from anywhere in the world is signing electronically as well. If you’re a client of ours, you might already be familiar with Ron because we’ve used it now on nearly 500 transactions. &nbsp;
 
@@ -28,6 +28,6 @@ It’s a super convenient tool for people who live elsewhere but are selling the
 
 {% include pullquote.html %}
 
-If RON has been part of our business for a while now, what’s the significance of this bill? Well, it advances our efforts to standardize the process—an effort that is becoming more prevalent across the country. This means greater convenience for real estate brokerages, homebuyers, sellers, and institutions like banks as they use RON in the underwriting process.&nbsp;
+<strong>If RON has been part of our business for a while now, what’s the significance of this bill?</strong> Well, it advances our efforts to standardize the process—an effort that is becoming more prevalent across the country. This means greater convenience for real estate brokerages, homebuyers, sellers, and institutions like banks as they use RON in the underwriting process.&nbsp;
 
 If you’d like more details regarding RON, Senate Bill 5641, or if this just what you’ve been looking for in a specific transaction you’re involved with, please give me a call. I’d be more than happy to discuss it\!
