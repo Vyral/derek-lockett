@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/OpPQExs7xrc'
 
 {% include youtube.html %}
 
-What is title insurance and why is it important? Find out with this quick message.
+<p style="text-align: center;"><em>What is title insurance and why is it important? Find out with this quick message.</em></p>
 
 People always ask me, “What the @\#\*% is title insurance?”&nbsp;
 
