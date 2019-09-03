@@ -20,7 +20,7 @@ youtube_code: Upf4qp9R5vY
 
 {% include youtube.html %}
 
-The excise tax you pay during your home sale will be changing starting January 1, 2020.
+<p style="text-align: center;"><em>The excise tax you pay during your home sale will be changing starting January 1, 2020.</em></p>
 
 For quite awhile now, the real estate excise tax (REET) home sellers pay during their sale has been 1.78% across the board, but changes are coming, and things are getting a bit more complicated.&nbsp;
 
