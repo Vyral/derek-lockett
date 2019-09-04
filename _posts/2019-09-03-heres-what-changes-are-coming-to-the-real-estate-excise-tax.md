@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Upf4qp9R5vY
+youtube_code: sS_vP1vR2Lk
 ---
 
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>The excise tax you pay during your home sale will be changing starting January 1, 2020.</em></p>
 
-For quite awhile now, the real estate excise tax (REET) home sellers pay during their sale has been 1.78% across the board, but changes are coming, and things are getting a bit more complicated.&nbsp;
+For quite a while now, the real estate excise tax (REET) home sellers pay during their sale has been 1.78% across the board, but changes are coming, and things are getting a bit more complicated.&nbsp;
 
 **On January 1, 2020, the rate sellers owe for their excise tax will be based on their home’s purchase price, and that in itself will be divided into four tiers:**
 
@@ -41,4 +41,4 @@ So, will you pay more or less in excise tax after January 1, 2020? If you sell y
 
 If you refinance your house or add someone to the title, you’ll also have to pay the excise tax, so if you’re curious what you’ll have to pay in this scenario, feel free to give me a call or shoot me an email. I’d be glad to help you.&nbsp;
 
-As always, if you have any other real estate questions, don’t hesitate to reach out to me as well. I look forward to hearing from you
+As always, if you have any other real estate questions, don’t hesitate to reach out to me as well. I look forward to hearing from you.
