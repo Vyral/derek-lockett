@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/eIPzsYv1JhE'
 
 {% include youtube.html %}
 
-There were recently some changes made to SOC policy in our Northwest MLS. Let’s recap what they mean for you, today.&nbsp;
+<p style="text-align: center;"><em>There were recently some changes made to SOC policy in our Northwest MLS. Let’s recap what they mean for you, today.</em></p>
 
 By now you’ve probably heard of the Selling Office Commission (SOC) changes that took place in the Northwest MLS as of October, but what are they, and what do they mean for you?
 
@@ -31,7 +31,8 @@ With that said, let’s get back to the recent SOC changes. It just so happens t
 
 The main motivating factor behind these changes was to increase the level of transparency surrounding the commission being offered to buyer’s agents. **This spawned two changes:&nbsp;**
 
-1\. Sellers can now publish their SOC.&nbsp;<br>2\. Sellers are no longer required to offer to pay for the buyer’s commission.&nbsp;
+1\. Sellers can now publish their SOC.
+<br>2\. Sellers are no longer required to offer to pay for the buyer’s commission.&nbsp;
 
 Now, in regards to that last point specifically, I know some of you may be thinking: Wait a minute, buyers are going to have to start paying commission fees\!?
 
