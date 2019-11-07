@@ -25,7 +25,7 @@ youtube_code: 'https://youtu.be/eIPzsYv1JhE'
 
 By now you’ve probably heard of the Selling Office Commission (SOC) changes that took place in the Northwest MLS as of October, but what are they, and what do they mean for you?
 
-Simply put, **SOC is the amount offered by the listing agent and seller to the buyer’s agent commission.** If you weren’t already aware, it’s common practice for the seller to cover the commission fee for both their own agent and the buyer’s agent during a real estate transaction.&nbsp;
+Simply put, **SOC is the amount offered by the listing agent and seller to the buyer’s agent's commission.** If you weren’t already aware, it’s common practice for the seller to cover the commission fee for both their own agent and the buyer’s agent during a real estate transaction.&nbsp;
 
 With that said, let’s get back to the recent SOC changes. It just so happens that I was recently fortunate enough to sit in on a meeting with Justin Hagg (the general counsel for the Northwest MLS), during which he explained these changes.&nbsp;
 
@@ -48,7 +48,7 @@ In fact, there is also currently a rule in place that states that buyer’s agen
 
 For this reason, many agents have begun to encourage their buyers to start using forms 41A and 41B—**buyer representation agreements that allow agents to set a commission fee amount they must receive by the end of the deal.** This fee can be paid by the buyer, the seller, or a combination of the two.&nbsp;
 
-Form 41C and Rule 104(D) also both allow for buyers agent to negotiate compensation with the seller.&nbsp;
+Form 41C and Rule 104(D) also both allow for buyer's agent to negotiate compensation with the seller.&nbsp;
 
 This doesn’t mean, however, that buyer’s agents aren’t required to show properties where the seller is offering a lower SOC than what the buyer’s agent expects to be paid in commission. This would only be the case if an additional contract was drafted and signed.&nbsp;
 
