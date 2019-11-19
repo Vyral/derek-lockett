@@ -8,7 +8,7 @@ excerpt: >-
   There were recently some changes made to SOC policy in our Northwest MLS.
   Let’s recap what they mean for you, today.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Derek+Lockett/2019/What+You+Need+to+Know+About+Recent+SOC+Changes.mp4
+  https://vyralmarketing.s3.amazonaws.com/Derek+Lockett/2019/What+You+Need+to+Know+About+Recent+SOC+Changes+(1).mp4
 pullquote: >-
   No other MLS across the country has taken these steps, so there’s really no
   telling what the future holds.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/eIPzsYv1JhE'
+youtube_code: 'https://youtu.be/8oOYOATx_Nw'
 ---
 
 {% include youtube.html %}
